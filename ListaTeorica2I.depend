@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725479205 source:c:\users\eduardo\desktop\listateorica2i\listateorica2i.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
